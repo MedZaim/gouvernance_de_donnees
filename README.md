@@ -1,14 +1,14 @@
 # Data Governance Project - Titanic Dataset Analysis
 
-Ce projet a été réalisé dans le cadre d'une formation de Master en gouvernance de données. Il présente un travail pratique d'analyse et de gouvernance de données axé sur le dataset Titanic, démontrant les techniques de préparation, de nettoyage, de prétraitement et d'analyse exploratoire des données.
+Ce projet présente un travail pratique d'analyse et de gouvernance de données axé sur le dataset Titanic, démontrant les techniques de préparation, de nettoyage, de prétraitement et d'analyse exploratoire des données.
 
-*This project was completed as part of a Master's program in Data Governance. It presents practical work on data analysis and governance focused on the Titanic dataset, demonstrating data preparation, cleaning, preprocessing, and exploratory data analysis techniques.*
+*This project presents practical work on data analysis and governance focused on the Titanic dataset, demonstrating data preparation, cleaning, preprocessing, and exploratory data analysis techniques.*
 
 ## 🎓 Academic Context
 
-Ce travail a été réalisé dans le cadre d'une formation de Master en gouvernance de données, encadré par le professeur [Mohamed el far](https://scholar.google.com/citations?user=nS0-eWYAAAAJ&hl). Il représente un exercice académique pratique visant à appliquer les principes et les meilleures pratiques de la gouvernance de données dans un contexte réel.
+Ce travail a été réalisé dans le cadre d'une formation de Master MLAIM (Machine Learning Avancé et Intelligence Multimédia) dans le cours de gouvernance de données, encadré par le professeur [Mohamed el far](https://scholar.google.com/citations?user=nS0-eWYAAAAJ&hl). Il représente un exercice académique pratique visant à appliquer les principes et les meilleures pratiques de la gouvernance de données dans un contexte réel.
 
-*This work was completed as part of a Master's program in Data Governance, supervised by Professor [Mohamed el far](https://scholar.google.com/citations?user=nS0-eWYAAAAJ&hl). It represents a practical academic exercise aimed at applying data governance principles and best practices in a real-world context.*
+*This work was completed as part of the MLAIM Master's program (Advanced Machine Learning and Multimedia Intelligence) in the Data Governance course, supervised by Professor [Mohamed el far](https://scholar.google.com/citations?user=nS0-eWYAAAAJ&hl). It represents a practical academic exercise aimed at applying data governance principles and best practices in a real-world context.*
 
 ## 📋 Table of Contents
 
