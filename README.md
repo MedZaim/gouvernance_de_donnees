@@ -1,6 +1,8 @@
 # Data Governance Project - Titanic Dataset Analysis
 
-This repository contains data governance and data analysis work focused on the Titanic dataset. The project demonstrates data preparation, cleaning, preprocessing, and exploratory data analysis techniques.
+Ce projet a été réalisé dans le cadre d'une formation de Master en gouvernance de données. Il présente un travail pratique d'analyse et de gouvernance de données axé sur le dataset Titanic, démontrant les techniques de préparation, de nettoyage, de prétraitement et d'analyse exploratoire des données.
+
+*This project was completed as part of a Master's program in Data Governance. It presents practical work on data analysis and governance focused on the Titanic dataset, demonstrating data preparation, cleaning, preprocessing, and exploratory data analysis techniques.*
 
 ## 📋 Table of Contents
 
@@ -13,10 +15,15 @@ This repository contains data governance and data analysis work focused on the T
 - [Dataset](#dataset)
 - [Notebooks](#notebooks)
 - [Contributing](#contributing)
+- [Academic Context](#academic-context)
 
 ## 🎯 Overview
 
-This project is part of a data governance workshop (Atelier 1) that explores various aspects of data quality, data cleaning, and data preprocessing using the famous Titanic dataset. It includes practical implementations of:
+Ce projet fait partie d'un atelier de gouvernance de données (Atelier 1) réalisé dans le cadre d'un Master universitaire. Il explore divers aspects de la qualité des données, du nettoyage et du prétraitement des données en utilisant le célèbre dataset Titanic. 
+
+*This project is part of a data governance workshop (Atelier 1) completed as part of a university Master's program. It explores various aspects of data quality, data cleaning, and data preprocessing using the famous Titanic dataset.*
+
+Le projet inclut des implémentations pratiques de :
 
 - Data loading and exploration
 - Missing value analysis and imputation
@@ -147,10 +154,16 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 **Med Zaim**
 - GitHub: [@MedZaim](https://github.com/MedZaim)
 
+## 🎓 Academic Context
+
+Ce travail a été réalisé dans le cadre d'une formation de Master en gouvernance de données. Il représente un exercice académique pratique visant à appliquer les principes et les meilleures pratiques de la gouvernance de données dans un contexte réel.
+
+*This work was completed as part of a Master's program in Data Governance. It represents a practical academic exercise aimed at applying data governance principles and best practices in a real-world context.*
+
 ## 📝 License
 
-This project is available for educational purposes as part of a data governance workshop.
+This project is available for educational purposes as part of a Master's program data governance course.
 
 ---
 
-**Note**: This project is designed for educational purposes to demonstrate data governance principles and best practices in data analysis.
+**Note**: Ce projet est conçu à des fins éducatives pour démontrer les principes de gouvernance de données et les meilleures pratiques en analyse de données. / *This project is designed for educational purposes to demonstrate data governance principles and best practices in data analysis.*
